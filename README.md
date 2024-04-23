@@ -67,19 +67,19 @@ Project Preview.
 :pushpin: Dashboard page 2:
 ![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Admin%20Booking%20report%2010.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp6.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Customer%20sign%20up%2013.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp7.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/User%20Detils%20panel%2012.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp8.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/User%20Detils%20panel%2012.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp9.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/user%20Booking%20list%2013.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp10.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Flight%20number%204.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp11.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Flit%20Booking%203.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp12.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/booking%20flight%205.PNG)
 :pushpin: Dashboard page 2:
 ![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp13.JPG)
 :pushpin: Dashboard page 2:
