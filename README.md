@@ -65,7 +65,7 @@ Project Preview.
 :pushpin: Dashboard page 2:
 ![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Admin%20city.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Admin%20Booking%20request%2011.PNG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Admin%20Booking%20report%2010.PNG)
 :pushpin: Dashboard page 2:
 ![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp6.JPG)
 :pushpin: Dashboard page 2:
