@@ -56,8 +56,8 @@ STEP 3: Use MySQL workbench to import data from dump folder, sql file.
 
 Project Preview.
 ---------------------------------------------------------------------
-:pushpin: Login page for Admin:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/techpack1.JPG)
+:pushpin: Home:
+![Home page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Home%201.PNG)
 :pushpin: Dashboard page for Admin:
 ![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp2.JPG)
 :pushpin: Dashboard page 2:
