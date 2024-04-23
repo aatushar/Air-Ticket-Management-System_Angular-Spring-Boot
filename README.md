@@ -6,14 +6,16 @@ AirTicket Management System is a comprehensive project aimed at simplifying the 
 Role 1. Administrator
 
 ## The Role of Administrator is
-1.Manage Flights: Add, update, or remove flight schedules and information.
-2.Manage Users: Create, modify, or delete user accounts and handle user-related issues.
-3.Handle Payments: Oversee secure payment processing.
-4.Resolve Issues: Address technical or customer service issues.
-5.Analytics and Reporting: Analyze booking trends and generate reports.
-6.System Configuration: Configure settings for pricing, availability, etc.
-7.Security Management: Maintain system security and protect user data.
-8.Handle Special Cases: Manage refunds, flight disruptions, and disputes.
+Sure, here are the main points regarding the role of administrators in the AirTicket Management System without explanations:
+
+1. Manage Flights
+2. Manage Users
+3. Handle Payments
+4. Resolve Issues
+5. Analytics and Reporting
+6. System Configuration
+7. Security Management
+8. Handle Special Cases
 
 Role 2. User
 
