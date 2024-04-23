@@ -6,15 +6,29 @@ AirTicket Management System is a comprehensive project aimed at simplifying the 
 Role 1. Administrator
 
 ## The Role of Administrator is
-1. Create new Style, TechPack, BOM.
-2. View all the Style, TechPack, BOM.
-3. Create a new Vendor.
-4. View all the vendors.
-5. Create new Buyers.
-6. View All the Buyers.
-7. View All the Orders.
+Sure, here are the main points regarding the role of administrators in the AirTicket Management System without explanations:
 
-2 Role 2. User
+1. Manage Flights
+2. Manage Users
+3. Handle Payments
+4. Resolve Issues
+5. Analytics and Reporting
+6. System Configuration
+7. Security Management
+8. Handle Special Cases
+
+Role 2. User
+
+## The Role of User is
+1. Booking Flights
+2. Managing Reservations
+3. Viewing Real-Time Flight Information
+4. Seat Selection
+5. Payment Processing
+6. Viewing Booking History
+7. Receiving Notifications
+8. Customer Support
+   
 ## Technologies used:-
 ### Front-End Development:
 - [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/html5.svg" width="40" height="40">](https://github.com/fatemazohor)
@@ -33,6 +47,68 @@ Role 1. Administrator
 - :  Visual Studio
 - :  Spring Initializer
 - :  Java JDK 17+
+**================= Dummy Database Initialization USING QUERY =================**  
+STEP 1: Open MySQL Command Prompt or MySQL Workbench
+
+STEP 2: Login to the administrator user as : mysql -u <username> -p (Enter Password if asked)
+
+STEP 3: Use MySQL workbench to import data from dump folder, sql file.
+
+Project Preview.
+---------------------------------------------------------------------
+:pushpin: Home:
+![Home page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Home%201.PNG)
+:pushpin: Dashboard page for Admin:
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Login%208.PNG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Admin%20Booking%20request%2011.PNG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Admin%20city.PNG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Admin%20Booking%20report%2010.PNG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Customer%20sign%20up%2013.PNG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/User%20Detils%20panel%2012.PNG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/User%20Detils%20panel%2012.PNG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/user%20Booking%20list%2013.PNG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Flight%20number%204.PNG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Flit%20Booking%203.PNG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/booking%20flight%205.PNG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp13.JPG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp14.JPG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp15.JPG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp16.JPG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp17.JPG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp18.JPG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp19.JPG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp20.JPG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp21.JPG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp22.JPG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp23.JPG)
+:pushpin: Dashboard page 2:
+![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp24.JPG)
+
+**"Suggestions and project Improvements are always Invited!"**  
+Thanks a lot,    
+Project Leader  
+[Md. Abdul Alim Tushar](https://github.com/aatushar)
 
 
 **================= Dummy Database Initialization USING QUERY =================**  
