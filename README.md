@@ -59,13 +59,13 @@ Project Preview.
 :pushpin: Home:
 ![Home page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Home%201.PNG)
 :pushpin: Dashboard page for Admin:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp2.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Login%208.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp3.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Admin%20Booking%20request%2011.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp4.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Admin%20city.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp5.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/Admin%20Booking%20request%2011.PNG)
 :pushpin: Dashboard page 2:
 ![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp6.JPG)
 :pushpin: Dashboard page 2:
