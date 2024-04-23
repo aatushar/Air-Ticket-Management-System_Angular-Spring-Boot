@@ -81,29 +81,12 @@ Project Preview.
 :pushpin: Dashboard page 2:
 ![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/booking%20flight%205.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp13.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/2.%20About.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp14.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/contact14.PNG)
 :pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp15.JPG)
-:pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp16.JPG)
-:pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp17.JPG)
-:pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp18.JPG)
-:pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp19.JPG)
-:pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp20.JPG)
-:pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp21.JPG)
-:pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp22.JPG)
-:pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp23.JPG)
-:pushpin: Dashboard page 2:
-![ Login page](https://github.com/fatemazohor/MerchandiseManagement--Angular-Spring-Boot/blob/main/screenshot/tp24.JPG)
+![ Login page](https://github.com/aatushar/Air-Ticket-Management-System_Angular-Spring-Boot/blob/main/Screenshort/feedback%2015.PNG)
+
 
 **"Suggestions and project Improvements are always Invited!"**  
 Thanks a lot,    
